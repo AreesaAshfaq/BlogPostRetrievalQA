@@ -5,11 +5,5 @@ langchain-community
 beautifulsoup4 
 langchain_groq
 torch
-streamlit==1.21.0
-chromadb==0.3.1  # Adjust based on compatibility
-numpy==1.21.5  # Ensure compatibility with chromadb
-protobuf==4.21.12
-opentelemetry-api==1.20.0
-opentelemetry-sdk==1.20.0
-opentelemetry-exporter-otlp==1.20.0
+streamlit
 

@@ -1,8 +1,13 @@
 streamlit 
 sentence-transformers 
 langchain 
-langchain-chroma 
 langchain-community 
 beautifulsoup4 
 langchain_groq
 torch
+protobuf==4.21.12
+opentelemetry-api==1.20.0
+opentelemetry-sdk==1.20.0
+opentelemetry-exporter-otlp==1.20.0
+langchain-chroma==0.0.2
+chromadb==0.3.1

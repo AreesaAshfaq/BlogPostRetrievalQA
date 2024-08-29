@@ -1,0 +1,8 @@
+streamlit 
+sentence-transformers 
+langchain 
+langchain-chroma 
+langchain-community 
+beautifulsoup4 
+langchain_groq
+torch

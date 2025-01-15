@@ -1,6 +1,6 @@
 # BlogPostRetrievalQA
 
-The BlogPostRetrieval QA App revolutionizes interaction with blog content using Retrieval-Augmented Generation (RAG) Technique, . By inputting a blog URL, users get precise, contextually relevant answers based on the content of that URL. Utilizing advanced models like LangChain, and GROQ (General Retrieval and Query Optimization), the app delivers accurate and meaningful responses.
+The [BlogPostRetrieval](https://huggingface.co/spaces/AreesaAshfaq/BlogRetrievalQA) QA App revolutionizes interaction with blog content using Retrieval-Augmented Generation (RAG) Technique, . By inputting a blog URL, users get precise, contextually relevant answers based on the content of that URL. Utilizing advanced models like LangChain, and GROQ (General Retrieval and Query Optimization), the app delivers accurate and meaningful responses.
 
 ## Features
 - **API Key Authentication:** Secure access by requiring an API key.
